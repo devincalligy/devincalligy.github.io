@@ -1,5 +1,5 @@
 ---
-title: Recommended History Reading List
+title:  Dank Reads
 subtitle: Lil Devy's Big History 
 layout: "page"
 icon: fa-book
@@ -18,3 +18,5 @@ All these books were great and you should probably read them:
 8. Ignazio Silone: *Bread and Wine*
 9. John Lewis Gaddis: *The Cold War: A New History*
 10. Eric Foner: *Forever Free*
+
+If ya want more, I got more.
