@@ -1,5 +1,5 @@
 ---
-title:  Dank Reads
+title:  Dank History Reads For A Degree I Wasted Money On
 subtitle: Lil Devy's Big History 
 layout: "page"
 icon: fa-book
